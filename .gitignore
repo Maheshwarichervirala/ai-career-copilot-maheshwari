@@ -1,0 +1,9 @@
+# Editor extension folder, never commit
+.qodo/
+
+# Local secrets and noise
+.env
+.env.*
+.vercel/
+node_modules/
+.DS_Store
